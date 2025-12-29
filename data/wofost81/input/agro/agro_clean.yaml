@@ -1,0 +1,13 @@
+Version: 1.0
+AgroManagement:
+- 3001-10-01:
+    CropCalendar:
+      crop_name: winterwheat
+      variety_name: Arminda
+      crop_start_date: 3001-10-01
+      crop_start_type: sowing
+      crop_end_date: 3002-09-24
+      crop_end_type: harvest
+      max_duration: 400
+    TimedEvents:
+    StateEvents:

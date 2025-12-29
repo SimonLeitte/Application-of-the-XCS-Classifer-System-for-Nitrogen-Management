@@ -1,0 +1,9 @@
+metric,value
+population_size,800.0
+n_actions,9.0
+exp_mean,0.2025
+exp_median,0.0
+exp_p90,0.0
+exp_p99,4.0
+fit_mean,0.0633560094318592
+fit_median,0.01
