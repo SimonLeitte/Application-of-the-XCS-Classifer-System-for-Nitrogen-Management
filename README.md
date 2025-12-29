@@ -38,9 +38,4 @@ python xcsr_train.py
 
 ```
 
----
 
-
-```
-
-```
