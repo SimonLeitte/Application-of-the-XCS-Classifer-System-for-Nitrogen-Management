@@ -11,7 +11,7 @@ Here is the text. You can copy the code block below directly into your `README.m
 
 This project applies an XCS (Learning Classifier System) to optimize nitrogen management strategies.
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 
 
-## 🚀 Usage
+##  Usage
 
 To start the training process for the XCS classifier, run the following command:
 
@@ -40,7 +40,6 @@ python xcsr_train.py
 
 ---
 
-**Note:** Large dataset files and logs (e.g., `.jsonl`, `.csv`) are excluded from this repository to save space. The simulation will generate necessary output files locally.
 
 ```
 
