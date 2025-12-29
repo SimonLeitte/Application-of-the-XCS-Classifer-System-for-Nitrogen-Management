@@ -9,8 +9,9 @@ This project applies an XCS (Learning Classifier System) to optimize nitrogen ma
    git clone [https://github.com/SimonLeitte/Application-of-the-XCS-Classifer-System-for-Nitrogen-Management.git](https://github.com/SimonLeitte/Application-of-the-XCS-Classifer-System-for-Nitrogen-Management.git)
    cd Application-of-the-XCS-Classifer-System-for-Nitrogen-Management
 
-   Install Dependencies Make sure you have Python installed. Then install the required packages:
+   #Install Dependencies Make sure you have Python installed. Then install the required packages:
+   ```bash
    pip install -r requirements.txt
-   To start the training process for the XCS classifier, run the following command:
+   #To start the training process for the XCS classifier, run the following command:
 
-   python xcsr_train.py
+   #python xcsr_train.py
